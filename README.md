@@ -4,11 +4,11 @@
   <img style="width:500px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWOaqh2yyXPtpdwdDhBis6MS70fXCmcZW24nfXeNZf12YiPT422oEdiNKNp45AjYAWNs&usqp=CAU" />
 </div>
 
-### Hello World, I am Inho Lee
-#### My nickname is Inno. 
-##### And I like be called by my nickname
+## Hello World, I am Inho Lee
+### My nickname is Inno. 
+#### And I like be called by my nickname
 
-###### now, I am studying to become a developer
+##### now, I am studying to become a developer
 
 ### Develop Tools
 <hr/>
