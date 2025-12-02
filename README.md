@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img style="width:500px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWOaqh2yyXPtpdwdDhBis6MS70fXCmcZW24nfXeNZf12YiPT422oEdiNKNp45AjYAWNs&usqp=CAU" />
+  <img style="width:300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWOaqh2yyXPtpdwdDhBis6MS70fXCmcZW24nfXeNZf12YiPT422oEdiNKNp45AjYAWNs&usqp=CAU" />
 </div>
 
 ## Hello World, I am Inho Lee
