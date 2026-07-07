@@ -8,7 +8,7 @@
 ### My nickname is Inno. 
 #### And I like be called by my nickname
 
-##### now, I am studying to become a developer
+##### now, I am studying to become a DevOps Engineer
 
 ### Develop Tools
 <hr/>
